@@ -59,17 +59,3 @@ button:hover {
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
     text-align: left;
 }
-
-.timestamp {
-    font-size: 12px;
-    color: gray;
-    margin-left: 5px;
-}
-
-#search-bar {
-    width: 100%;
-    padding: 8px;
-    margin-bottom: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
